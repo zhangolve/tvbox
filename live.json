@@ -1,7 +1,7 @@
 {
   "name": "BeeSport直播(python)",
-  "type": 1,
-  "api": "https://tv.iill.top/m3u/Sport",
+  "type": 0,
+  "url": "https://tv.iill.top/m3u/Sport",
   "ext": {},
   "header": {
     "Referer": "https://p.m82xg4z0cdbz7.com/"
